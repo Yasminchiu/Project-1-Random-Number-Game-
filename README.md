@@ -1,2 +1,2 @@
-# Project 1
- My first project for my tech-degree course
+# Project 1 (Random Number Game)
+ My first project for my Treehouse tech-degree course. 
